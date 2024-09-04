@@ -5,4 +5,4 @@ Esta calculadora permite realizar operações simples como
 - Multiplicação
 - Divasão
 
-  Utilizado apenas linguagem Python
+Utilizado apenas linguagem Python
