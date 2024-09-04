@@ -22,6 +22,11 @@ while True:
 
     print('{} {} {} = {}' .format(num1, op, num2, result))
 
+    resposta =input("Voce realizar outra operação? (sim/não)").lower()
+    if resposta =='sim':
+        print("Vamos continuar")
+    elif resposta =='nao':
+        print("Fim do programa")
 
 
     
